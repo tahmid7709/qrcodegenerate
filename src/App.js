@@ -20,7 +20,7 @@ function App() {
                 <Col sm={8}>
                       <Card style={{ width: '100%',padding:'20px'}}>
                 <Card.Body>
-                  <div className='d-flex'>
+                  <div className='d-flex bg-light p-4'>
                     <Nav variant="pills" className="flex-column">
                       <Nav.Item>
                         <Nav.Link eventKey="text">Text and URLs</Nav.Link>

@@ -1,9 +1,0 @@
-export { default as Text } from './Text';
-export { default as Geolocation } from './Geolocation';
-export { default as Calendar } from './Calendar';
-export { default as Mail } from './Mail';
-export { default as Phone } from './Phone';
-export { default as Sms } from './Sms';
-export { default as Youtube } from './Youtube';
-export { default as Instagram } from './Instagram';
-export { default as Twitter } from './Twitter';
